@@ -6,5 +6,5 @@
     $b = "Hello World!";
     $b = NULL;
     var_dump($b);
-    echo "This code is written by Drishti";
+    echo "This program is written by Drishti";
 ?>
