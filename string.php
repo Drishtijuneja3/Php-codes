@@ -1,5 +1,5 @@
 <?php
-
+//code to demonstrate string
     $a = "Hello world!\n";
     echo $a;
      
