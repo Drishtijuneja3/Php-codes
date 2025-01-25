@@ -16,5 +16,5 @@
     // Create object from class
     $message = new greeting;
     var_dump($message);
-
+    echo "This program is written by Drishti";
 ?>
