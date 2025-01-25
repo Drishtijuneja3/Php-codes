@@ -6,5 +6,5 @@
     echo "string is: $str \n";  
     echo "integer is: $x \n";  
     echo "float is: $y";  
-    
+    echo "This code is written by Drishti";
 ?>
