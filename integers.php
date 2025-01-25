@@ -1,5 +1,5 @@
 <?php
-
+//code to demonstrate integers
     $a = 123; // decimal number
     var_dump($a);
      
