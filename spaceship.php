@@ -1,5 +1,5 @@
 <?php
-//code to demonstrate array operators
+//code to demonstrate spaceship operators
     // Comparing Integers 
     echo 1 <=> 1; // Outputs: 0
     echo "\n";
