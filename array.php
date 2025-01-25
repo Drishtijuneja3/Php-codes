@@ -1,5 +1,5 @@
 <?php
-
+//code to demonstrate array data type
     $colors = array("Red", "Green", "Blue");
     var_dump($colors);
      
