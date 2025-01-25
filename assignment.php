@@ -1,5 +1,5 @@
 <?php
-
+//code to demonstrate assignment operators
     $x = 10;
     echo "$x \n"; // Outputs: 10
     
