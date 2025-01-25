@@ -6,5 +6,5 @@
     {
     	echo "Out of $a and $b, $a is smaller" ;
     }
-    echo "This code is written by Drishti";
+    echo "This program is written by Drishti";
 ?>
