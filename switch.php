@@ -1,5 +1,5 @@
 <?php
-
+//code to demonstrate switch statement
     $favcolor = "red";
     
     switch ($favcolor)
@@ -16,5 +16,5 @@
         default:
             echo "Your favorite color is neither red, blue, nor green!";
     }
-    
+    echo "This program is written by Drishti";
 ?>
