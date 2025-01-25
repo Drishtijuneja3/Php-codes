@@ -1,5 +1,5 @@
 <?php
-
+// code to demonstrate variables
     $str="hello string";  
     $x=200;  
     $y=44.6;  
