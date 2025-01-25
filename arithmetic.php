@@ -1,5 +1,5 @@
 <?php
-
+//code to demonstrate arithmetic operators
     $x = 10;
     $y = 4;
     
@@ -8,5 +8,5 @@
     echo "$x * $y = ". ($x * $y) . "\n"; // 0utputs: 40
     echo "$x / $y = ". ($x / $y) . "\n"; // 0utputs: 2.5
     echo "$x % $y = ". ($x % $y) . "\n"; // 0utputs: 2
-
+echo "This code is written by Drishti";
 ?>
