@@ -1,5 +1,5 @@
 <?php
-
+//code to demonstrate increment and decrement operators
     $x = 10;
     echo "++$x is =" . (++$x) . "\n"; // Outputs: 11
     echo "Now x is =" . $x . "\n";   // Outputs: 11
@@ -15,5 +15,5 @@
     $x = 10;
     echo "$x-- is =" . ($x--) . "\n";// Outputs: 10
     echo "Now x is =" . $x;   // Outputs: 9
-
+echo "This program is written by Drishti";
 ?>
