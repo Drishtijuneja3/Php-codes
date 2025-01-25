@@ -1,5 +1,5 @@
 <?php
-
+//code to demonstrate if-else
     $a = 20;
     $b = 15;
     
@@ -11,5 +11,5 @@
     {
      	echo "$a is NOT bigger than $b";
     }
-
+echo "This program is written by Drishti";
 ?>
