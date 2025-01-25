@@ -1,5 +1,5 @@
 <?php
-
+//code to demonstrate object data type
     // Class definition
     class greeting
     {
