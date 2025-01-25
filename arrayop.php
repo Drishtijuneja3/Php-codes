@@ -1,5 +1,5 @@
 <?php
-
+//code to demonstrate array operators
     // Comparing Integers 
     echo 1 <=> 1; // Outputs: 0
     echo "\n";
@@ -22,5 +22,5 @@
     echo "x" <=> "y"; // Outputs: -1
     echo "\n";
     echo "y" <=> "x"; // Outputs: 1
-    
+    echo "This program is written by Drishti";
 ?>
