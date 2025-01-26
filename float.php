@@ -5,5 +5,7 @@
     
     $b = 10.2e3;
     var_dump($b);
+    $c=4e-10;
+var_dump($c);
     echo "This program is written by Drishti";
 ?>
