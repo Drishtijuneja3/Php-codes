@@ -1,4 +1,5 @@
 <?php
+//code to count number of digits in a given number
 function counting($n){
   return strlen(abs($n));
 }
